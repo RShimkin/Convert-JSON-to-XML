@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <people>
+    <firstName>Joe</firstName>
+    <lastName>Jackson</lastName>
+    <gender>male</gender>
+    <age>28</age>
+    <number>7349282382</number>
+  </people>
+  <people>
+    <firstName>James</firstName>
+    <lastName>Smith</lastName>
+    <gender>male</gender>
+    <age>32</age>
+    <number>5678568567</number>
+  </people>
+  <people>
+    <firstName>Emily</firstName>
+    <lastName>Jones</lastName>
+    <gender>female</gender>
+    <age>24</age>
+    <number>456754675</number>
+  </people>
+</root>
